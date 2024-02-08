@@ -17,3 +17,6 @@ Trabalho da disciplina de Engenharia de Software envolvendo Testes Unitários
 - Clique em _Exibir_ -> _Gerenciador de Soluções_
 - Clique no projeto _CalculoBhaskara_ ou _FuncCalcBhaskara_ ou _UnitTest2_ e em seguida _Arquivos de Origem_
 - Selecione o código que deseja visualizar
+
+# Maiores Detalhes
+- Para maiores detalhes acesse o documento disponibilado no repositório 
