@@ -1,0 +1,16 @@
+﻿LINK : warning LNK4075: ignorando '/INCREMENTAL' devido a especificação '/FORCE'
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: __cdecl node::node(int,class node *,class node *,class node *)" (??0node@@QEAA@HPEAV0@00@Z) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: int __cdecl node::getBalance(void)" (?getBalance@node@@QEAAHXZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: int __cdecl node::getHeight(void)" (?getHeight@node@@QEAAHXZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: int __cdecl node::getKey(void)" (?getKey@node@@QEAAHXZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: class node * __cdecl node::getLeft(void)" (?getLeft@node@@QEAAPEAV1@XZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: class node * __cdecl node::getP(void)" (?getP@node@@QEAAPEAV1@XZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: class node * __cdecl node::getRight(void)" (?getRight@node@@QEAAPEAV1@XZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: void __cdecl node::print(void)" (?print@node@@QEAAXXZ) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: void __cdecl node::setKey(int)" (?setKey@node@@QEAAXH@Z) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: void __cdecl node::setLeft(class node *)" (?setLeft@node@@QEAAXPEAV1@@Z) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: void __cdecl node::setP(class node *)" (?setP@node@@QEAAXPEAV1@@Z) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+AVL Tree Project.lib(avlTree.obj) : warning LNK4006: "public: void __cdecl node::setRight(class node *)" (?setRight@node@@QEAAXPEAV1@@Z) já definido no AVL Tree Project.lib(node.obj); segunda definição ignorada
+     Criando biblioteca C:\Users\Lucas\OneDrive\Documentos\LUCAS\FACULDADE\2023_2\Engenharia de Software\Testes Unitários\AVL Tree Project\x64\Debug\UnitTestOne.lib e objeto C:\Users\Lucas\OneDrive\Documentos\LUCAS\FACULDADE\2023_2\Engenharia de Software\Testes Unitários\AVL Tree Project\x64\Debug\UnitTestOne.exp
+C:\Users\Lucas\OneDrive\Documentos\LUCAS\FACULDADE\2023_2\Engenharia de Software\Testes Unitários\AVL Tree Project\x64\Debug\UnitTestOne.dll : warning LNK4088: imagem sendo gerada devido a opção /FORCE; imagem não pode ser executada
+  UnitTestOne.vcxproj -> C:\Users\Lucas\OneDrive\Documentos\LUCAS\FACULDADE\2023_2\Engenharia de Software\Testes Unitários\AVL Tree Project\x64\Debug\UnitTestOne.dll
