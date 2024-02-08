@@ -19,4 +19,4 @@ Trabalho da disciplina de Engenharia de Software envolvendo Testes Unitários
 - Selecione o código que deseja visualizar
 
 # Maiores Detalhes
-- Para maiores detalhes acesse o documento disponibilado no repositório 
+- Para maiores detalhes acesse o documento disponibilado no repositório como _Testes Unitários - Engenharia de Software.pdf_
